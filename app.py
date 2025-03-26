@@ -1,3 +1,5 @@
-a = 5
-b = 10
+a = int(init())
+b = int(input())
+sum = (a+b)
 print(sum)
+
